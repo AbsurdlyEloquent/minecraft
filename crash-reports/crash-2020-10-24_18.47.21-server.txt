@@ -1,0 +1,33 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 10/24/20, 6:47 PM
+Description: Exception in server tick loop
+
+com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was "brk...es"
+	at afa.m(SourceFile:393)
+	at acw.f(SourceFile:122)
+	at zf.y(SourceFile:95)
+	at zf.<init>(SourceFile:22)
+	at zg.d(SourceFile:164)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:642)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:254)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.3
+	Minecraft Version ID: 1.16.3
+	Operating System: Linux (amd64) version 5.4.0-52-generic
+	Java Version: 11.0.8, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 3696661360 bytes (3525 MB) / 8589934592 bytes (8192 MB) up to 8589934592 bytes (8192 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx8192M -Xms8192M
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
