@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-11-09 02:40:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-10-05 22:46:05 -0400"
@@ -563,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-11-09 02:40:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-09-22 21:15:42 -0400"
@@ -677,6 +689,7 @@
       "minecraft:phantom": "2020-10-09 23:35:19 -0400",
       "minecraft:zombified_piglin": "2020-10-25 23:50:39 -0400",
       "minecraft:wither_skeleton": "2020-10-22 15:39:44 -0400",
+      "minecraft:husk": "2020-11-09 02:33:36 -0500",
       "minecraft:cave_spider": "2020-10-08 22:47:15 -0400",
       "minecraft:enderman": "2020-10-05 23:30:12 -0400",
       "minecraft:silverfish": "2020-10-28 23:04:00 -0400",
@@ -2967,6 +2980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-11-09 02:40:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-10-08 22:16:37 -0400"
@@ -3345,5 +3364,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 2584
 }
