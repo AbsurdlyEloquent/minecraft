@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-11-21 20:05:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-09-22 22:07:46 -0400"
@@ -398,6 +404,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-10-05 23:27:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-11-15 00:51:34 -0500"
     },
     "done": true
   },
@@ -692,6 +704,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-10-10 03:11:04 -0400",
+      "minecraft:pillager": "2020-11-15 22:18:53 -0500",
       "minecraft:skeleton": "2020-09-22 21:11:33 -0400",
       "minecraft:ghast": "2020-10-28 20:19:47 -0400",
       "minecraft:magma_cube": "2020-10-10 02:10:42 -0400",
@@ -886,9 +899,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-11-14 18:26:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-10-28 23:00:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-11-14 21:21:14 -0500"
     },
     "done": true
   },
@@ -991,6 +1016,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2020-10-11 02:05:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-11-14 23:34:01 -0500"
     },
     "done": true
   },
@@ -1433,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-11-21 19:29:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-09-22 21:15:42 -0400"
@@ -1478,6 +1515,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-10-05 22:46:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-11-14 18:24:27 -0500"
     },
     "done": true
   },
@@ -1996,6 +2039,7 @@
       "bread": "2020-09-22 22:12:38 -0400",
       "melon_slice": "2020-10-10 02:10:08 -0400",
       "beetroot": "2020-10-23 19:18:06 -0400",
+      "golden_carrot": "2020-11-21 19:37:49 -0500",
       "cooked_chicken": "2020-10-10 15:56:30 -0400",
       "carrot": "2020-10-22 18:14:03 -0400"
     },
@@ -2549,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-11-15 00:30:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-09-13 19:31:36 -0400"
@@ -2630,6 +2680,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-22 21:05:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-11-14 18:24:27 -0500"
     },
     "done": true
   },
@@ -2882,6 +2938,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-09-22 21:16:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-11-14 18:26:45 -0500"
     },
     "done": true
   },
@@ -3176,6 +3238,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-08 21:34:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-11-15 00:29:13 -0500"
     },
     "done": true
   },
